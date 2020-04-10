@@ -1,0 +1,22 @@
+@import url(./__columns/footer__columns.css);
+@import url(./__author/footer__author.css);
+
+.footer {
+    min-height: 350px;
+    background-color: #1F1F1F;
+    color:#F2F2F2;
+    display: flex;
+}
+
+.logo_place_footer {
+    background-image: url('../../images/logo_white.png');
+    width: 183px;
+    height: 35px;
+    flex-basis: 711px;
+}
+
+.social__icons {
+    width: 16px;
+    height: 16px;
+    margin-left: 0px;
+}

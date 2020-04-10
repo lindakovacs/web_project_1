@@ -1,0 +1,20 @@
+.description{
+    display:flex;
+    justify-content: center;
+    margin: 100px auto;
+}
+.techniques{
+    width: 80%;
+    margin: 100px auto 0 auto;
+    position: relative;
+}
+.oakley {
+    padding-top: 160px;
+    padding-bottom: 80px;
+    background-color: #F2F2F2;
+}
+.digits{
+    /* margin: 0 auto; */
+    padding-top: 100px;
+    /* padding-bottom: 100px; */
+}
