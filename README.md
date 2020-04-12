@@ -1,6 +1,6 @@
-#Web Project 1
+#Web Project 1 and Project 2
 
-The Sprint 1 - Practicum by Yandex training project. 
+The Sprint 2 - Practicum by Yandex training project. 
 
 A simple one-page website.
 
