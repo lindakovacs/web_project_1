@@ -4,17 +4,16 @@
 @import url(./__description/cards__description.css);
 
 .cards {
-    display: flex;
+    width: 920px;
+    margin: auto;
     flex-wrap: wrap;
-    justify-content: space-between;
+    display: flex;
+    align-items: baseline;
+    padding-left: 0;
     /* align-content: left; */
     /* align-content: space-between; */
     /* flex-direction: row;
     justify-content: space-between; 
     align-items: left; */
     /* flex-direction: baseline; */
-    width: 920px;
-    margin: 0 auto;
-    padding: 0;
-    list-style-type: none;
 }

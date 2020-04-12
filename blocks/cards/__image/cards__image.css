@@ -1,7 +1,7 @@
 .cards__image {
     width: 160px;
-    height: 160px;
-    margin: 0 40px;
+    /* height: 160px; */
+    margin-left: 40px;
     border-radius: 50%;
-    position: relative;
+    /* position: relative; */
 }

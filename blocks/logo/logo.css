@@ -1,3 +1,6 @@
+@import url(_place_header/logo_place_header.css);
+@import url(_place_footer/logo_place_footer.css);
+
 .logo {
     width: 154px;
     height: 31px;
@@ -7,8 +10,26 @@
     background-position: center;
     margin: auto;
 }
+
 .logo_place_header {
     background-image: url('../../images/logo.png');
     top: 30px;
     left: 64px;
+}
+
+.logo_place_header:hover {
+    opacity: .2;
+    transition: 1s linear;
+}
+
+.logo_place_footer {
+    background-image: url('../../images/logo_white.png');
+    width: 183px;
+    height: 35px;
+    flex-basis: 711px;
+}
+
+.logo_place_footer:hover {
+    opacity: .2;
+    transition: 1s linear;
 }

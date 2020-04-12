@@ -5,12 +5,12 @@
 .feynman {
     background: url('../../images/feynman.png') left bottom;
     background-repeat: no-repeat;
-    height: 790px;
+    height: 790px; 
     position: relative;
     display: flex;
     flex-direction: column;
-    /* margin-top: 100px;
-    padding-top: 100px; */
+    /* margin-top: 100px; */
+    padding-top: 100px; 
     background-color: #F2F2F2;
 }
 

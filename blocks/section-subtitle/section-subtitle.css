@@ -6,5 +6,7 @@
     font-weight: normal;
     width: 60%;
     text-align: center;
-    margin: 0 auto;
+    /* margin: 0 auto; */
+    margin: auto auto -10px;
+    padding-bottom: 50px;
 }

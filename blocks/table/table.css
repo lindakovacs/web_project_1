@@ -1,27 +1,14 @@
-@import url(./_theme/table_theme_dark.css);
+@import url(./_theme_dark/table_theme_dark.css);
+@import url(./__heading/table__heading.css);
+@import url(./__text/table__text.css);
+@import url(./__cell/table__cell.css);
 
 .table {
     width: 1100px;
     display: flex;
     flex-wrap: wrap;
-    margin: 0 auto;
+    margin: auto;
     justify-content: space-between;
     list-style: none;
     padding: 0;
-}
-.table__cell {
-    width: 250px;
-    margin-top: 60px;
-}
-.table__heading {
-    line-height: 1.15;
-    font-size: 24px;
-    font-weight: bold;
-    margin: 0;
-}
-.table__text {
-    margin: 20px auto 0 auto;
-    line-height: 1.2;
-    font-size: 18px;
-    font-weight: normal;
 }

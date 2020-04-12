@@ -1,5 +1,10 @@
 @import url(./__columns/footer__columns.css);
 @import url(./__author/footer__author.css);
+@import url(./__column/footer__column-heading.css);
+@import url(./__column/footer__column-links.css);
+@import url(./__column/footer__column_content_copyright.css);
+@import url(./__column/footer__column.css);
+@import url(./__soicial-icon/footer__soicial-icon.css);
 
 .footer {
     min-height: 350px;
@@ -8,15 +13,16 @@
     display: flex;
 }
 
-.logo_place_footer {
+/* .logo_place_footer {
     background-image: url('../../images/logo_white.png');
     width: 183px;
     height: 35px;
     flex-basis: 711px;
-}
+} */
 
-.social__icons {
-    width: 16px;
-    height: 16px;
-    margin-left: 0px;
-}
+/* .footer__column-social_heading {
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
+} */

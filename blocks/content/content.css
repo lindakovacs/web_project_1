@@ -1,11 +1,13 @@
-.description{
-    display:flex;
+.description {
+    /* width: 80%; */
+    display: flex;
     justify-content: center;
     margin: 100px auto;
 }
-.techniques{
+.techniques {
     width: 80%;
-    margin: 100px auto 0 auto;
+    /* margin: auto; */
+    margin: 100px auto 0 auto; 
     position: relative;
 }
 .oakley {
@@ -13,8 +15,11 @@
     padding-bottom: 80px;
     background-color: #F2F2F2;
 }
-.digits{
+.digits {
     /* margin: 0 auto; */
-    padding-top: 100px;
+    /* padding-top: 100px; */
+    /* margin-bottom: 40px; */
     /* padding-bottom: 100px; */
+    margin-top: 100px;
+    margin-bottom: 40px;
 }

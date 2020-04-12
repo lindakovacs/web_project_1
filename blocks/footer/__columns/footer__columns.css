@@ -5,32 +5,3 @@
     position: relative;
     justify-content: space-between;
 }
-
-.footer__column-links {
-    list-style-type: none;
-    margin: 20px 0 16px 0; 
-    padding-left: 0; 
-    line-height: 30px;
-    font-size: 18px;
-    font-weight: normal;
-}
-.footer__column-heading {
-    line-height: 45px;
-    font-size: 18px;
-    font-weight: bold;
-    margin: 0;
-}
-.footer__column-social_heading {
-    line-height: 30px;
-    font-size: 18px;
-    font-weight: bold;
-    margin: 0;
-}
-.footer__column_content_copyright {
-    flex-basis: 711px;
-}
-
-.footer__column {
-    text-decoration: none;
-    color:#F2F2F2;
-}

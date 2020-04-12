@@ -4,18 +4,8 @@
     line-height: 34px;
     font-size: 24px;
     font-weight: normal;
-}
-
-.khan__quote-author {
-    margin-top: 36px;
-    line-height: 1.15;
-    font-size: 24px;
-    font-weight: bold;
-}
-
-.khan__quote-author-subline {
-    margin-top: 10px;
-    line-height: 1.15;
-    font-size: 24px;
-    font-weight: normal;
+    /* padding-bottom: 36px;
+    padding-top: 50px;
+    margin-top: 0;
+    margin-bottom: 0; */
 }
