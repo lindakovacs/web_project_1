@@ -1,8 +1,6 @@
 .cards__item {
     width: 240px;
     margin-top: 60px;
-    /* position: relative; */
-    /* margin-right: 100px; */
     margin-right: 100px;
     list-style: none;
 }

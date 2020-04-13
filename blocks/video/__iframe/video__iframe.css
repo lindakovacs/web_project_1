@@ -1,11 +1,6 @@
 .video__iframe {
     width: 515px;
     height: 316px;
-    /* margin-top: 0; */
-    /* margin-right: 20px; */
-    /* margin: 0 20px 50px; */
-    /* position: relative; */
-    /* display: flex; */
 }
 
 .video__iframe:nth-of-type(1) {

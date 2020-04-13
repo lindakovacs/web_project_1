@@ -8,12 +8,3 @@
     /* this ensures that all content is centered on screens wider than 1600px */
     font-family: 'Helvetica Neue', Arial, sans-serif;
 }
-
-/* For Testing purpose only */
-/* div, ul, img, h1, h2, h3, h4 {
-    border: 1px solid red;
-}
-
-section, li, p {
-    border: 1px solid blue;
-} */

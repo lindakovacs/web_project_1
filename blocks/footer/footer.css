@@ -2,7 +2,6 @@
 @import url(./__column/_content/footer__column_content_copyright.css);
 @import url(./__column/footer__column.css);
 @import url(./__column-heading/footer__column-heading.css);
-@import url(./__column-link/footer__column-link.css);
 @import url(./__column-links/footer__column-links.css);
 @import url(./__columns/footer__columns.css);
 @import url(./__soicial-icon/footer__soicial-icon.css);
@@ -13,17 +12,3 @@
     color:#F2F2F2;
     display: flex;
 }
-
-/* .logo_place_footer {
-    background-image: url('../../images/logo_white.png');
-    width: 183px;
-    height: 35px;
-    flex-basis: 711px;
-} */
-
-/* .footer__column-social_heading {
-    line-height: 30px;
-    font-size: 18px;
-    font-weight: bold;
-    margin: 0;
-} */
