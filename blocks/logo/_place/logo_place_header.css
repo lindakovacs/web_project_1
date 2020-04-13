@@ -1,0 +1,10 @@
+.logo_place_header {
+    background-image: url('../../../images/logo.png');
+    top: 30px;
+    left: 64px;
+}
+
+/* .logo_place_header:hover {
+    opacity: .2;
+    transition: 1s linear;
+} */
