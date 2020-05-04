@@ -1,7 +1,18 @@
-#Web Project 1 and Project 2
+# Web Project 1 and Project 2
+* Part of the Practicum by Yandex Web Development Bootcamp Curriculum.
 
-The Sprint 2 - Practicum by Yandex training project. 
+### Overview
+* Description of the project and its functionality
+* Technologies
+* Demo
 
-A simple one-page website.
+**Description of the project and its functionality**
 
+A simple one-page website using HTML5 and CSS3, following the BEM methodology. 
+
+**Technologies**
 Stack: HTML5, CSS3, Flexbox, BEM
+
+### Demo
+
+[Demo link](https://lindakovacs.github.io/web_project_1/)
